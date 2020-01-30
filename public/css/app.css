@@ -1,15 +1,5 @@
 /* app css stylesheet */
 
-div#user {
-  float: right;
-}
-div#user:before {
-  content: '[';
-}
-div#user:after {
-  content: ']';
-}
-
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
